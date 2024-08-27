@@ -1,25 +1,25 @@
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
+    <td style="border: none; padding: 0;">
       <a href="https://github.com/ildesh">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=2c87d1&width=435&height=100&lines=Ciao+a+tutti%2C+sono+Deniel!;Benvenuti+nel+mio+GitHub!" alt="SVG 1">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=2c87d1&width=435&height=100&lines=Ciao+a+tutti%2C+sono+Deniel!;Benvenuti+nel+mio+GitHub!" alt="SVG 1" style="display: block; width: 100%;">
       </a>
     </td>
-    <td>
+    <td style="border: none; padding: 0;">
       <a href="https://github.com/ildesh">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=ff5733&width=435&height=100&lines=Hello+everyone%2C+I%27m+Deniel!;Welcome+to+my+GitHub!" alt="SVG 2">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=ff5733&width=435&height=100&lines=Hello+everyone%2C+I%27m+Deniel!;Welcome+to+my+GitHub!" alt="SVG 2" style="display: block; width: 100%;">
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none; padding: 0;">
       <a href="https://github.com/ildesh">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=28a745&width=435&height=100&lines=¡Hola+a+todos%2C+soy+Deniel!;¡Bienvenidos+a+mi+GitHub!" alt="SVG 3">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=28a745&width=435&height=100&lines=¡Hola+a+todos%2C+soy+Deniel!;¡Bienvenidos+a+mi+GitHub!" alt="SVG 3" style="display: block; width: 100%;">
       </a>
     </td>
-    <td>
+    <td style="border: none; padding: 0;">
       <a href="https://github.com/ildesh">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=ff00ff&width=435&height=100&lines=Bonjour+tous%2C+je+suis+Deniel!;Bienvenue+sur+mon+GitHub!" alt="SVG 4">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=ff00ff&width=435&height=100&lines=Bonjour+tous%2C+je+suis+Deniel!;Bienvenue+sur+mon+GitHub!" alt="SVG 4" style="display: block; width: 100%;">
       </a>
     </td>
   </tr>
