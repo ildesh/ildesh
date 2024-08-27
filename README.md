@@ -1,10 +1,12 @@
-<div style="display: flex; "
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 [![SVG 1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=2c87d1&width=435&height=100&lines=Ciao+a+tutti%2C+sono+Deniel!;Benvenuti+nel+mio+GitHub!)](https://github.com/ildesh)
 [![SVG 2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=ff5733&width=435&height=100&lines=Hello+everyone%2C+I%27m+Deniel!;Welcome+to+my+GitHub!)](https://github.com/ildesh)
 [![SVG 3](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=28a745&width=435&height=100&lines=¡Hola+a+todos%2C+soy+Deniel!;¡Bienvenidos+a+mi+GitHub!)](https://github.com/ildesh)
 [![SVG 4](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=350&color=ff00ff&width=435&height=100&lines=Bonjour+tous%2C+je+suis+Deniel!;Bienvenue+sur+mon+GitHub!)](https://github.com/ildesh)
 ---
+
+</div>
 
 <details open>
   <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
