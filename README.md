@@ -25,6 +25,9 @@
   </tr>
 </table>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...)](https://discord.com/users/163026753944551426)
+
+
 <details open>
   <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
   
@@ -63,5 +66,3 @@
         <br>
     </p>
 </details>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426)](https://discord.com/users/163026753944551426)
