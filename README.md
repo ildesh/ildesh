@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...)](https://discord.com/users/163026753944551426)
+[![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...&theme=dark&showDisplayName=true&borderRadius=20px)](https://discord.com/users/163026753944551426)
 
 
 <details open>
