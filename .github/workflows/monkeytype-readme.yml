@@ -2,35 +2,37 @@ name: Generate Monkeytype Readme SVG
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # ogni 6 ore
-  workflow_dispatch:
+    - cron: "0 * * * *"  # ogni ora
+  workflow_dispatch:     # anche manualmente
 
 jobs:
-  download-svg:
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Checkout main branch
+        uses: actions/checkout@v3
         with:
-          node-version: "20.x"
+          ref: main
 
-      - name: Download Monkeytype SVGs
-        run: |
-          mkdir -p public
-          curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/nord_light
-          curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/?lb=true
-          curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/nord_light?pb=true
-          curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/nord_light?lbpb=true
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
 
-      - name: Commit and Push to monkeytype-readme branch
+      - name: Install dependencies
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git checkout -B monkeytype-readme
-          git add public/
-          git commit -m "Update Monkeytype SVGs [skip ci]" || echo "No changes to commit"
-          git push origin monkeytype-readme --force
+          pip install -r requirements.txt
+
+      - name: Generate monkeytype-readme.svg
+        run: python scripts/generate_svg.py  # o qualunque sia lo script
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/monkeytype-readme.svg
+          git diff --cached --quiet || (
+            git commit -m "Update monkeytype-readme.svg"
+            git push origin main
+          )

@@ -65,3 +65,25 @@
         <br>
     </p>
 </details>
+
+<div style= "display: flex; gap: 30px; border: 2px solid white; border-radius: 10%; padding: 20px; align-items: center; justify-content: center;">
+  <details open><summary><h2>📊 Used Languages</h2></summary>
+      <p>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildesh&layout=compact&theme=nord&hide_border=1">
+          <br>
+          <br>
+          <br>
+      </p>
+  </details>
+
+  <details open><summary><h2>Monkeytype STATS</h2></summary>
+      <p>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/public/monkeytype-readme.svg" alt="Monkeytype Stats" />
+          </p>
+          <br>
+          <br>
+          <br>
+      </p>
+  </details>
+</div>
