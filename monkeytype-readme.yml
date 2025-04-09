@@ -1,0 +1,36 @@
+name: Generate Monkeytype Readme SVG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # ogni 6 ore
+  workflow_dispatch:
+
+jobs:
+  download-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.x"
+
+      - name: Download Monkeytype SVGs
+        run: |
+          mkdir -p public
+          curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/nord_light
+          curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/?lb=true
+          curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/nord_light?pb=true
+          curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/nord_light?lbpb=true
+
+      - name: Commit and Push to monkeytype-readme branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git checkout -B monkeytype-readme
+          git add public/
+          git commit -m "Update Monkeytype SVGs [skip ci]" || echo "No changes to commit"
+          git push origin monkeytype-readme --force
