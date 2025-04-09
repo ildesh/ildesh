@@ -2,37 +2,18 @@ name: Generate Monkeytype Readme SVG
 
 on:
   schedule:
-    - cron: "0 * * * *"  # ogni ora
-  workflow_dispatch:     # anche manualmente
+    - cron: "0 */6 * * *"  # ogni 6 ore
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout main branch
-        uses: actions/checkout@v3
+      - name: Generate Monkeytype Readme SVG
+        uses: monkeytype-hub/monkeytype-readme@v1.0.0
         with:
-          ref: main
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
-      - name: Generate monkeytype-readme.svg
-        run: python scripts/generate_svg.py  # o qualunque sia lo script
-
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add public/monkeytype-readme.svg
-          git diff --cached --quiet || (
-            git commit -m "Update monkeytype-readme.svg"
-            git push origin main
-          )
+          username: ildesh
+          themes: nord_light
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          target-branch: monkeytype-readme
