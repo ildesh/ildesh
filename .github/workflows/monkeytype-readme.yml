@@ -1,0 +1,25 @@
+name: Generate Monkeytype Readme SVG
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # ogni 5 minuti
+  workflow_dispatch:
+
+jobs:
+  download-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.x"
+
+      - name: Download Monkeytype SVGs
+        run: |
+          mkdir -p public
+          curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/nord_light
+          curl -o public/monkeytype-readme-lb.svg https://monkeytype-read
