@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?showSpotify=true&idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...&theme=dark&showDisplayName=true&borderRadius=20px&hideStatus=false)](https://discord.com/users/163026753944551426)
+[![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?showSpotify=true&idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...&theme=dark&showDisplayName=true&animated=true&borderRadius=20px&showBadges=true&hideDiscrim=true&hideStatus=false)](https://discord.com/users/163026753944551426)
 
 <details open>
   <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
