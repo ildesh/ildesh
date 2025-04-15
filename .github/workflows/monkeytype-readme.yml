@@ -21,10 +21,10 @@ jobs:
             - name: Download SVG
               run: |
                   mkdir public
-                  curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/vscode?lang=italian
-                  curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/vscode?lb=true&lang=italian
-                  curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/vscode?pb=true&lang=italian
-                  curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/vscode?lbpb=true&lang=italian
+                  curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/discord?lang=italian
+                  curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/discord?lb=true&lang=italian
+                  curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/discord?pb=true&lang=italian
+                  curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/discord?lbpb=true&lang=italian
 
             - name: push monkeytype-readme.svg to the monkeytype-readme branch
               uses: crazy-max/ghaction-github-pages@v4.0.0
