@@ -44,10 +44,14 @@ Tools i use for daily things :)
 ---
 
 <p>
-  <a href="https://github.com/ildesh?tab=repositories">
+  <a style = "text-decoration: none; href="https://github.com/ildesh?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Repos-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://discord.com/users/163026753944551426">
+  <a style = "text-decoration: none; href="https://discord.com/users/163026753944551426">
     <img src="https://img.shields.io/badge/Chat_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+  <a style = "text-decoration: none;" href="ildesh.github.io/desh.me/">
+    <img src="https://img.shields.io/badge/🚀_My_Portfolio-2EC4B6?style=for-the-badge&logo=star&logoColor=white" alt = "myPortfolio">
+  </a>
+
 </p>
