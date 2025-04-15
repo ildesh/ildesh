@@ -1,6 +1,7 @@
 name: generate monkeytype readme svg
 
 on:
+    push:
     schedule:
         - cron: "0 */6 * * *" # every 6 hours
     workflow_dispatch:
@@ -20,10 +21,10 @@ jobs:
             - name: Download SVG
               run: |
                   mkdir public
-                  curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green
-                  curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green?lb=true
-                  curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green?pb=true
-                  curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green?lbpb=true
+                  curl -o public/monkeytype-readme.svg "https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green?lang=it"
+                  curl -o public/monkeytype-readme-lb.svg "https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green?lb=true&lang=it"
+                  curl -o public/monkeytype-readme-pb.svg "https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green?pb=true&lang=it"
+                  curl -o public/monkeytype-readme-lb-pb.svg "https://monkeytype-readme.zeabur.app/generate-svg/ildesh/green?lbpb=true&lang=it"
 
             - name: push monkeytype-readme.svg to the monkeytype-readme branch
               uses: crazy-max/ghaction-github-pages@v4.0.0
