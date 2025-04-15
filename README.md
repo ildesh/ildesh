@@ -78,12 +78,6 @@
 
   <details open><summary><h2> 🐒 Monkeytype STATS</h2></summary>
 
-  ![Monkeytype Stats](https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme.svg)
-
-  ![Leaderboard](https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme-lb.svg)
-  
-  ![Personal Best](https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme-pb.svg)
-  
   ![Leaderboard + PB](https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme-lb-pb.svg)
 
 
