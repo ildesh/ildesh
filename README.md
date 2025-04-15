@@ -21,7 +21,7 @@ Languages that i'm trying to learn
     
 </div>
 
-Tools i use for daily programming
+Tools i use for daily things :)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,obsidian,notion,github,ps,cmake)](https://skillicons.dev)
 
