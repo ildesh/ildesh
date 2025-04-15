@@ -43,8 +43,7 @@ Tools i use for daily things :)
 
 ---
 
-### 🌟 **Extra**
-<p align="center">
+<p>
   <a href="https://github.com/ildesh?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Repos-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   </a>
