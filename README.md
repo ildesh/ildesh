@@ -8,7 +8,6 @@
 ---
 
 ### 🛠️ **Tech Stack**
-#### Languages & Tools
 Languages that i learned
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c,py,md)](https://skillicons.dev)
