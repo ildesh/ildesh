@@ -35,11 +35,15 @@ Tools i use for daily things :)
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildesh&layout=compact&theme=nord&hide_border=true&bg_color=2e3440" alt="Top Langs">
 </div>
 
-### 📊 **MonkeyType Stats**
+### 📊 **Stats**
 
-<div style="margin-top: 30px; display: flex; flex-wrap: wrap;">
+<div style="margin-top: 30px; display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <img src="https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme.svg" alt="MonkeyType Stats">
+  <a href="https://osu.ppy.sh/u/ildesh">
+    <img src="https://osu-stats-signature.vercel.app/card?user=ildesh&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=221&w=550&h=280&skills=true" alt="osu! Stats" />
+  </a>
 </div>
+
 
 ---
 
