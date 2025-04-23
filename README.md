@@ -26,24 +26,19 @@ Tools i use for daily things :)
 
 ---
 
-
----
-
 ### 📊 **GitHub Analytics**
 <div style="display: grid; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ildesh&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=2e3440" alt="Stats">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildesh&layout=compact&theme=nord&hide_border=true&bg_color=2e3440" alt="Top Langs">
 </div>
 
+
+
 ### 📊 **Stats**
-
-<div style="margin-top: 30px; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme.svg" alt="MonkeyType Stats">
-  <a href="https://osu.ppy.sh/u/ildesh">
-    <img src="https://osu-stats-signature.vercel.app/card?user=ildesh&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=221&w=550&h=280&skills=true" alt="osu! Stats" />
-  </a>
+  <img src="https://osu-stats-signature.vercel.app/card?user=ildesh&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=221&w=400&h=220&skills=true" alt="osu! Stats" />
 </div>
-
 
 ---
 
