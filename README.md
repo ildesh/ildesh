@@ -35,9 +35,10 @@ Tools i use for daily things :)
 
 
 ### 📊 **Stats**
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-content: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <img src="https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme.svg" alt="MonkeyType Stats">
-  <img src="https://osu-stats-signature.vercel.app/card?user=ildesh&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=221&w=400&h=220&skills=true" alt="osu! Stats" />
+  <img src="https://osu-stats-signature.vercel.app/card?user=ildesh&mode=std&lang=en&blur=10&round_avatar=true&animation=true&hue=225&mini=true&w=400&h=120"/>
 </div>
 
 ---
