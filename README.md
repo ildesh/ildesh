@@ -16,13 +16,13 @@ Languages that i learned
 
 Languages that i'm trying to learn
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,latex,react,git,bash,latex,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,latex,react,git,bash,latex,mysql,flask)](https://skillicons.dev)
     
 </div>
 
 Tools i use for daily things :)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,obsidian,notion,github,ps,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,instagram,replit,github,vscode,obsidian,notion,github,ps,cmake)](https://skillicons.dev)
 
 ---
 
