@@ -16,7 +16,7 @@ Languages that i learned
 
 Languages that i'm trying to learn
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,latex,react,git,bash,latex,mysql,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,cs,latex,react,git,bash,latex,mysql,flask)](https://skillicons.dev)
     
 </div>
 
