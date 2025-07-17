@@ -2,7 +2,7 @@
 <div align="center">
   <p><img src="https://readme-typing-svg.demolab.com?font=Fascinate&size=70&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1300&height=200&lines=Benvenuto+nel+mio+profilo+gitHub!;Welcome+to+my+gitHub+profile!" alt="Typing SVG" /></p>
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?showSpotify=true&idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...&theme=dark&showDisplayName=true&borderRadius=20px&hideStatus=false)](https://discord.com/users/163026753944551426)
+ <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?showSpotify=true&idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...&theme=dark&showDisplayName=true&borderRadius=20px&hideStatus=false)](https://discord.com/users/163026753944551426) -->
 </div>
 
 ---
