@@ -5,6 +5,16 @@
  <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/163026753944551426?showSpotify=true&idleMessage=Dormita%20tattica%20o%20sto%20giocando%20come%20sempre...&theme=dark&showDisplayName=true&borderRadius=20px&hideStatus=false)](https://discord.com/users/163026753944551426) -->
 </div>
 
+<p align="center">
+    <a href="https://discord.com/users/163026753944551426">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
+            <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=light&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
+            <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
+        </picture>
+    </a>
+</p>
+
 ---
 
 ### 🛠️ **Tech Stack**
