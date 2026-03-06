@@ -37,21 +37,23 @@ Tools i use for daily things :)
 ---
 
 ### 📊 **GitHub Analytics**
-<div style="display: grid; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ildesh&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=2e3440" alt="Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildesh&layout=compact&theme=nord&hide_border=true&bg_color=2e3440" alt="Top Langs">
-</div>
+[![Den's GitHub stats](./profile/stats.svg)](https://github.com/ildesh/ildesh)
 
-
+---
 
 ### 📊 **Stats**
 <div style="display: flex; align-content: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <img src="https://raw.githubusercontent.com/ildesh/ildesh/monkeytype-readme/monkeytype-readme.svg" alt="MonkeyType Stats">
-  <img src="https://osu-stats-signature.vercel.app/card?user=ildesh&mode=std&lang=en&blur=10&round_avatar=true&animation=true&hue=225&mini=true&w=400&h=120"/>
+  <a href="https://steamcommunity.com/profiles/76561198355665966">
+    <img src="./profile/steam.svg" alt="Steam Card" />
+  </a>
+  
+  <a href="https://osu.ppy.sh/users/21870903">
+    <img src="https://osu-stats-signature.vercel.app/card?user=ildesh&mode=std&lang=en&blur=10&round_avatar=true&animation=true&hue=225&mini=true&w=400&h=120"/>
+  </a>
 </div>
 
 ---
+
 <div align="center">
   
   [![Explore My Repos](https://img.shields.io/badge/Explore_My_Repos-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ildesh?tab=repositories)
