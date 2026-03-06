@@ -93,8 +93,9 @@
 </div>
 
 > [!IMPORTANT]
-> 🇮🇹 $\arrowright$ Sto avendo delle idee per vedere se riesco a creare delle card adatte per questi vari giochi
-> 🇬🇧 $\arrowright$ I'm having some ideas to see if I can make some cards suitable for these various games
+> 🇮🇹 $\rightarrow$ Sto avendo delle idee per vedere se riesco a creare delle card adatte per questi vari giochi
+> 
+> 🇬🇧 $\rightarrow$ I'm having some ideas to see if I can make some cards suitable for these various games
 
 ---
 
