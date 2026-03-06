@@ -1,37 +1,24 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 5rem; flex-wrap: wrap; margin-top: 1.5rem;">
-  <a style="text-decoration: none;" href="https://namemc.com/profile/89364996-9919-4ad6-8141-1ad40ab57683">
-    <img src="https://mc-heads.net/body/89364996-9919-4ad6-8141-1ad40ab57683/right" alt="Minecraft Skin" height="320px" width="145px" />
-  </a>
-  <div style="display: flex; flex-direction: column;">
-    <div style="text-align: center;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fascinate&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&width=800&height=50&lines=Benvenuto+nel+mio+profilo+gitHub!;Welcome+to+my+gitHub+profile!" alt="Typing SVG" />
-    </div>
-    <a style="text-decoration: none;" href="https://discord.com/users/163026753944551426">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass" />
-        <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=light&idleMessage=I'm%20probably%20studying%20or%20touching%20grass" />
-        <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=dark" height="190px" />
-      </picture>
-    </a>
-    <div style="margin-top: 1rem;">
-      <a href="https://twitch.tv/ildesh">
-        <img src="https://img.shields.io/badge/ildesh-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+<table border="none">
+  <tr>
+    <td valign="center">
+      <a href="https://namemc.com/profile/89364996-9919-4ad6-8141-1ad40ab57683">
+        <img src="https://mc-heads.net/body/89364996-9919-4ad6-8141-1ad40ab57683/right" alt="Minecraft Skin" height="300px" />
       </a>
-      &nbsp;
-      <a href="https://instagram.com/ildesh">
-        <img src="https://img.shields.io/badge/ildesh-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </td>
+    <td valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Fascinate&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&height=50&lines=Benvenuto+nel+mio+profilo+gitHub!;Welcome+to+my+gitHub+profile!" alt="Typing SVG" />
+      <br>
+      <a href="https://discord.com/users/163026753944551426">
+        <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass" height="190px" />
       </a>
-      &nbsp;
-      <a href="https://twitter.com/ildesh">
-        <img src="https://img.shields.io/badge/ildesh-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
-      </a>
-      &nbsp;
-      <a href="https://youtube.com/@ildesh">
-        <img src="https://img.shields.io/badge/ildesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-      </a>
-    </div>
-  </div>
-</div>
+      <br><br>
+      <a href="https://twitch.tv/ildesh"><img src="https://img.shields.io/badge/ildesh-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+      <a href="https://instagram.com/ildesh"><img src="https://img.shields.io/badge/ildesh-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <a href="https://twitter.com/ildesh"><img src="https://img.shields.io/badge/ildesh-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+      <a href="https://youtube.com/@ildesh"><img src="https://img.shields.io/badge/ildesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
