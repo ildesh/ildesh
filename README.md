@@ -13,9 +13,9 @@
       </a>
       <br><br>
       <a href="https://twitch.tv/ildesh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-      <a href="https://instagram.com/desh_bert" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-      <a href="https://twitter.com/Twitter_ild3sh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-      <a href="https://youtube.com/@ild3sh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="https://instagram.com/desh_bert" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/desh_bert-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <a href="https://twitter.com/Twitch_ildesh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Twitch_ildesh-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+      <a href="https://youtube.com/@ild3sh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ild3sh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     </td>
   </tr>
 </table>
