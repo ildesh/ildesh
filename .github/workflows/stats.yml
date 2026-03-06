@@ -1,0 +1,29 @@
+name: Aggiorna GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Aggiorna le statistiche ogni giorno a mezzanotte
+  workflow_dispatch: # Ti permette di farla partire anche manualmente in qualsiasi momento
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Genera l'immagine delle statistiche
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=ildesh&show_icons=true
+
+      - name: Salva l'immagine nella repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Aggiornamento automatico GitHub Stats" || exit 0
+          git push
