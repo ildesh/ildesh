@@ -6,7 +6,7 @@
       </a>
     </td>
     <td valign="top">
-      <img src="https://readme-typing-svg.demolab.com?font=Fascinate&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&height=50&lines=Benvenuto+nel+mio+profilo+gitHub!;Welcome+to+my+gitHub+profile!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fascinate&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&width=550&height=50&lines=Benvenuto+nel+mio+profilo+gitHub!;Welcome+to+my+gitHub+profile!" alt="Typing SVG" />
       <br>
       <a href="https://discord.com/users/163026753944551426">
         <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass" height="190px" />
