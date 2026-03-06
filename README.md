@@ -12,10 +12,10 @@
         <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/163026753944551426?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass" height="190px" />
       </a>
       <br><br>
-      <a target="_blank" rel="noopener" href="https://twitch.tv/ildesh"><img src="https://img.shields.io/badge/ildesh-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-      <a target="_blank" rel="noopener" href="https://instagram.com/ildesh"><img src="https://img.shields.io/badge/ildesh-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-      <a target="_blank" rel="noopener" href="https://twitter.com/Twitter_ild3sh"><img src="https://img.shields.io/badge/ildesh-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-      <a target="_blank" rel="noopener" href="https://youtube.com/@ild3sh"><img src="https://img.shields.io/badge/ildesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="https://twitch.tv/ildesh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+      <a href="https://instagram.com/desh_bert" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <a href="https://twitter.com/Twitter_ild3sh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+      <a href="https://youtube.com/@ild3sh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ildesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     </td>
   </tr>
 </table>
